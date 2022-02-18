@@ -2,8 +2,9 @@
   "name": "amdyn",
   "version": "1.0.0",
   "description": "Personal project",
-  "main": "index.js",
+  "main": "server/index.js",
   "scripts": {
+    "start": "nodemon server/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
