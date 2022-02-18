@@ -1,0 +1,22 @@
+{
+  "name": "amdyn",
+  "version": "1.0.0",
+  "description": "Personal project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-black/amdyn.git"
+  },
+  "author": "Daniel Black",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniel-black/amdyn/issues"
+  },
+  "homepage": "https://github.com/daniel-black/amdyn#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
