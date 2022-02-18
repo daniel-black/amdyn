@@ -1,0 +1,2 @@
+# amdyn
+Personal project
